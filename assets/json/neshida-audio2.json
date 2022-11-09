@@ -1,0 +1,30 @@
+[
+  {
+    "rating": "3.5",
+    "title": "Tole",
+    "img": "assets/images/headset.jpg",
+    "text": "Nashiidaa",
+    "audio": "neshida_audio/Tole.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "Xinxali",
+    "img": "assets/images/headset.jpg",
+    "text": "Nashiidaa",
+    "audio": "gs://caayaa-project.appspot.com/neshida_audio/Xinxali.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  }
+  ,
+  {
+    "rating": "3.5",
+    "title": "Yaa rabbii koo",
+    "img": "assets/images/headset.jpg",
+    "text": "Nashiidaa",
+    "audio": "gs://caayaa-project.appspot.com/neshida_audio/Yaa rabbii koo.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  }
+]

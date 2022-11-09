@@ -1,0 +1,73 @@
+[
+	{
+		"rating":"4.5",
+		"title":"Wal'aansa Ruuhii fi Qalbi",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 2",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"3.5",
+		"title":"Maatii fi waatii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 1",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.3",
+		"title":"Copha Surrii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 3",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.5",
+		"title":"Qophiilee biroo",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 4",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.5",
+		"title":"Wal'aansa Ruuhii fi Qalbi",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 2",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"3.5",
+		"title":"Maatii fi waatii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 1",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.3",
+		"title":"Copha Surrii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 3",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.5",
+		"title":"Wal'aansa Ruuhii fi Qalbi",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 2",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"3.5",
+		"title":"Maatii fi waatii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 1",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	},
+	{
+		"rating":"4.3",
+		"title":"Copha Surrii",
+		"img":"assets/images/headset.jpg",
+		"text":"Text 3",
+		"audio":"https://thenaatsharif.com/downloads/javeria-saleem/maula-ya-salli-wa-sallim.mp3"
+	}
+
+]

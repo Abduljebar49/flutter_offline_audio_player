@@ -1,0 +1,74 @@
+[
+  {
+    "rating": "4.5",
+    "title": "1-CALLISUUMOO DUBBACHUU",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "assets/audios/audio1cs.mp3",
+    "status": "offline",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "feeneti moodirqamneeti 1ffaa ",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "assets/audios/audio2cs.mp3",
+    "status": "offline",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "4.3",
+    "title": "gaabbii",
+    "img": "assets/images/headset.jpg",
+    "text": "kutaa 1ffaa",
+    "audio": "assets/audios/audio3cs.mp3",
+    "status": "offline",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "ABDIIN MAALI",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "copha surrii/ABDIIN MAALI KUT-1FFAA.MP3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "COPHA,BEKA MO BEKAMA",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "copha surrii/COPHA,BEKA MO BEKAMA KUTA 1FFAA.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "IMAANAA HAA TIIYFANNUU",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "copha surrii/IMAANAA HAA TIIYFANNUU.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "NAMAA FI SAGANTAA",
+    "img": "assets/images/headset.jpg",
+    "text": "KUT-1FFAA",
+    "audio": "copha surrii/NAMAA FI SAGANTAA KUT-1FFAA.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  },
+  {
+    "rating": "3.5",
+    "title": "NAMAA FI SAGANTA",
+    "img": "assets/images/headset.jpg",
+    "text": "KUTAA 2FFAA",
+    "audio": "copha surrii/NAMAA FI SAGANTA KUTAA 2FFAA.mp3",
+    "status": "online",
+    "artist":"Artist Caayaa"
+  }
+]

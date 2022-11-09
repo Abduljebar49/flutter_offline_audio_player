@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "880785624175",
+    "project_id": "caayaa-project",
+    "storage_bucket": "caayaa-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:880785624175:android:d07ebd2ba441b2d4d3119a",
+        "android_client_info": {
+          "package_name": "com.abduljebar.gc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "880785624175-66b9fprd35aobv2mln32s7iapvjg3bfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgB6anOVXq0E7_IG3ToyaYwaN-jZGp-vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "880785624175-66b9fprd35aobv2mln32s7iapvjg3bfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

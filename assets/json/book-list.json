@@ -1,0 +1,30 @@
+[
+    {
+      "rating": "3.5",
+      "title": "Gorsa hangafaa nama haqa barbaaduuf",
+      "img": "assets/images/oromo4.PNG",
+      "text": "Umar Arsii",
+      "audio": "",
+      "status": "online",
+      "url":"gs://caayaa-project.appspot.com/kitaaba/Oromo-04.pdf"
+    },
+    {
+      "rating": "3.5",
+      "title": "Qeesichaafi Sheekicha",
+      "img": "assets/images/oromo5.PNG",
+      "text": "Qamar Husseen",
+      "audio": "",
+      "status": "online",
+      "url":"gs://caayaa-project.appspot.com/kitaaba/Oromo-05.pdf"
+    },
+    {
+      "rating": "3.5",
+      "title": "Aqiidaa sirraawaa fi faallaa isaa",
+      "img": "assets/images/oromo6.PNG",
+      "text": "Sheekh Abdul-Aziiz",
+      "audio": "",
+      "status": "online",
+      "url":"gs://caayaa-project.appspot.com/kitaaba/Oromo-06.pdf"
+    }
+  ]
+  

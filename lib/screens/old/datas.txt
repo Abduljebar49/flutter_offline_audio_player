@@ -1,0 +1,98 @@
+
+              //SizedBox(
+              //  height: 10,
+              //),
+              //Container(
+              //  padding: EdgeInsets.only(
+              //    left: 20,
+              //    right: 20,
+              //  ),
+              //  child: Row(
+              //    mainAxisAlignment: MainAxisAlignment.spaceBetween,
+              //    children: [
+              //      Row(
+              //        children: [
+              //          Icon(
+              //            Icons.menu,
+              //            size: 40,
+              //            color: Colors.black,
+              //          ),
+              //          SizedBox(
+              //            width: 20,
+              //          ),
+              //          Text(
+              //            selectedFieldName,
+              //            textAlign: TextAlign.start,
+              //            style: TextStyle(
+              //              fontSize: 30,
+              //              fontWeight: FontWeight.bold,
+              //            ),
+              //          ),
+              //        ],
+              //      ),
+              //      Row(
+              //        children: [
+              //          Icon(
+              //            Icons.search,
+              //            size: 40,
+              //            color: Colors.black,
+              //          ),
+              //          SizedBox(
+              //            width: 15,
+              //          ),
+              //          Icon(
+              //            Icons.alarm,
+              //            size: 40,
+              //            color: Colors.black,
+              //          ),
+              //        ],
+              //      ),
+              //    ],
+              //  ),
+              //),
+              //SizedBox(
+              //  height: 20,
+              //),
+              //Row(
+              //  children: [
+              //    Container(
+              //      margin: EdgeInsets.only(
+              //        left: 20,
+              //      ),
+              //    ),
+              //  ],
+              //),
+              //SizedBox(
+              //  height: 20,
+              //),
+              //Container(
+              //  height: 180,
+              //  child: Stack(
+              //    children: [
+              //      Positioned(
+              //        left: -20,
+              //        top: 0,
+              //        right: 0,
+              //        child: Container(
+              //          height: 180,
+              //          child: PageView.builder(
+              //            controller: PageController(viewportFraction: 0.8),
+              //            itemCount: programsList.length,
+              //            itemBuilder: (_, i) {
+              //              return Container(
+              //                height: 180,
+              //                margin: EdgeInsets.only(right: 13),
+              //                decoration: BoxDecoration(
+              //                  borderRadius: BorderRadius.circular(30),
+              //                  image: DecorationImage(
+              //                      image: AssetImage(programsList[i]['img']),
+              //                      fit: BoxFit.fill),
+              //                ),
+              //              );
+              //            },
+              //          ),
+              //        ),
+              //      )
+              //    ],
+              //  ),
+              //),
